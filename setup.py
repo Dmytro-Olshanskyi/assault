@@ -12,11 +12,11 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
+NAME = 'assault'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/https://github.com/Dmytro-Olshanskyi/assult'
+URL = 'https://github.com/Dmytro-Olshanskyi/assult'
 EMAIL = 'olshanskyi@gmail.com'
-AUTHOR = 'Awesome Soul'
+AUTHOR = 'Dmytro Olshanskyi'
 REQUIRES_PYTHON = '>=3.9.0'
 VERSION = '0.1.0'
 
